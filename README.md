@@ -1,6 +1,6 @@
 # Dynamics 365 & Power Platform Consultant & FulL Stack Developer
 
-![](https://komarev.com/ghpvc/?username=AitorHB&color=blueviolet
+![Sneak peeks](https://komarev.com/ghpvc/?username=AitorHB)
 
 ## 👨‍💻 About Me
 
